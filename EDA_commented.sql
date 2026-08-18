@@ -1,5 +1,5 @@
 -- ============================================================================
--- COFFEE SHOP SALES EDA — WEEK 1
+-- COFFEE SHOP SALES EDA
 -- ============================================================================
 --
 -- I created this file as both a record of my thought process and a reference I
